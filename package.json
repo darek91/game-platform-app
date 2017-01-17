@@ -1,0 +1,29 @@
+{
+  "name": "game-platform-app",
+  "version": "1.0.0",
+  "description": "Game platform - app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server --hot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darek91/game-platform-app.git"
+  },
+  "keywords": [
+    "reactJS"
+  ],
+  "author": "Dariusz Pałucha & Krzysztof Kałamarski",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/darek91/game-platform-app/issues"
+  },
+  "homepage": "https://github.com/darek91/game-platform-app#readme",
+  "dependencies": {
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "webpack": "^1.14.0",
+    "webpack-dev-server": "^1.16.2"
+  }
+}
